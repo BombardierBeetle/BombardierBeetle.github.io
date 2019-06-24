@@ -1,12 +1,8 @@
-#test
+#ページ方針
 
+Markdownページの習熟
+主に以下のカテゴリを列挙
 
-## this is test
-
-test
-test
-
-- test
-- test
-    - test
-
+- 注目技術
+- よく使うソフトウェアのメモ
+- toDo
