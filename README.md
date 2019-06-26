@@ -1,5 +1,7 @@
 # GHpage_learning
 
+- readme.md
+
 ## ページ方針
 
 Markdownページの習熟
