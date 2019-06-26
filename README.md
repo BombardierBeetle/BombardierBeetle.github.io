@@ -15,5 +15,5 @@ Markdownページの習熟
 
 ### TEST
 
-[[https://bombardierbeetle.github.io/docs/test]]
+[https://bombardierbeetle.github.io/docs/test] 
 [TEST](/docs/test)
