@@ -10,3 +10,10 @@ Markdownページの習熟
 - 注目技術
 - よく使うソフトウェアのメモ
 - toDo
+
+
+
+### TEST
+
+[[https://bombardierbeetle.github.io/docs/test]]
+[TEST]({/docs/test})
