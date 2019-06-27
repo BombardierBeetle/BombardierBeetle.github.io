@@ -1,6 +1,6 @@
 # GHpage_learning
 
-[GH pages is here](https://bombardierbeetle.github.io/)
+[GHpage is here](https://bombardierbeetle.github.io/)
 
 このページは何？
 
