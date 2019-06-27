@@ -17,7 +17,6 @@ Markdownページの習熟
 
 ## コンテンツ
 
+[TEST](/docs/test)
 
-
-[TEST](/docs/test) 
 [PXE boot](/docs/PXEboot_memo)
