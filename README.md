@@ -1,5 +1,8 @@
 # GHpage_learning
 
+
+このページは何？
+
 - readme.md
 
 ## ページ方針
@@ -11,9 +14,9 @@ Markdownページの習熟
 - よく使うソフトウェアのメモ
 - toDo
 
+## コンテンツ
 
 
-### TEST
 
-[https://bombardierbeetle.github.io/docs/test] 
 [TEST](/docs/test)
+[PXE boot](/docs/PXEboot_memo)
