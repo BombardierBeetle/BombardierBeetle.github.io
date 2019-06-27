@@ -1,5 +1,6 @@
 # GHpage_learning
 
+[GH pages is here](https://bombardierbeetle.github.io/)
 
 このページは何？
 
@@ -18,5 +19,5 @@ Markdownページの習熟
 
 
 
-[TEST](/docs/test)
+[TEST](/docs/test) 
 [PXE boot](/docs/PXEboot_memo)
